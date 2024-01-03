@@ -1,0 +1,24 @@
+P1,P2,S1,S2,Fails,Close,Playoffs
+NickAzn,Yoco,2,0,Yoco,Neyei,NickAzn
+Neyei,allo,2,1,allo,Typescrapr,TreXDer
+NickAzn,Neyei,3,0,g4,Ricki,Jammy Dodger
+TreXDer,Typescrapr,3,0,bio,jane.,Programmatic
+Jammy Dodger,Ricki,3,1,SquidSuperstar,Hedge Wizard,metalman20
+Programmatic,g4,2,0,ArenEternal,Wesley,LtChaos720
+Programmatic,jane.,3,0,eevyern,TobyAkka4,imfallinfree
+metalman20,Hedge Wizard,3,0,1,Bobogoobo,magnostherobot
+LtChaos720,bio,2,0,1,1,1
+Wesley,SquidSuperstar,2,0,1,1,1
+LtChaos720,Wesley,3,2,1,1,1
+imfallinfree,ArenEternal,2,0,1,1,1
+imfallinfree,TobyAkka4,3,0,1,1,1
+Bobogoobo,eevyern,2,0,1,1,1
+magnostherobot,Bobogoobo,3,0,1,1,1
+NickAzn,magnostherobot,3,0,1,1,1
+Programmatic,metalman20,3,0,1,1,1
+TreXDer,imfallinfree,3,0,1,1,1
+Jammy Dodger,LtChaos720,3,2,1,1,1
+NickAzn,Programmatic,3,0,1,1,1
+TreXDer,Jammy Dodger,3,0,1,1,1
+Programmatic,Jammy Dodger,4,3,1,1,1
+NickAzn,TreXDer,5,0,1,1,1
